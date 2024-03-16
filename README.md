@@ -1,3 +1,3 @@
 # raaang
 
-![snake gif](https://github.com/KWANHYUNKIM/KWANHYUNKIM/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kwanhyunkim/kwanhyunkim/blob/output/github-contribution-grid-snake.svg)
